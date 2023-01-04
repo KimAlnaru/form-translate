@@ -1,0 +1,11 @@
+{
+    "title" : "CRÉER UN NOUVEAU COMPTE CLIENT B2B",
+    "personal_details": {
+        "info": "INFORMATIONS PERSONNELLES, INFORMATIONS D'ADRESSE"
+    },
+    "required" : "Champs obligatoires",
+    "btn_text": "Créer un compte",
+    "labels" : { 
+        "label": "Prénom, Nom de famille, S'inscrire aux Newsletters, Date de naissance, Numéro d'impôt/TVA, Le genre, E-mail, Compagnie, Numéro de téléphone, Adresse de la rue, Ville, État/Province, Zip / code postal, De campagne"
+    }
+}

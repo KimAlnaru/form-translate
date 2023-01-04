@@ -1,0 +1,11 @@
+{
+    "title" : "NEUES B2B-KUNDENKONTO ERSTELLEN",
+    "personal_details": {
+        "info": "PERSÖNLICHE INFORMATIONEN, ADRESSE"
+    },
+    "required" : "Benötigte Felder",
+    "btn_text": "Ein Konto erstellen",
+    "labels" : { 
+        "label": "Vorname, Nachname, Anmeldung für Newsletter, Geburtsdatum, Steuer-/Umsatzsteuernummer, Geschlecht, Email, Unternehmen, Telefonnummer, Adresse, Stadt, Staat/Provinz, Postleitzahl, Land"
+    }
+}

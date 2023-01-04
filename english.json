@@ -1,0 +1,11 @@
+{
+    "title" : "CREATE NEW B2B CUSTOMER ACCOUNT",
+    "personal_details": {
+        "info": "PERSONAL INFORMATION, ADDRESS INFORMATION"
+    },
+    "required" : "Required Fields",
+    "btn_text": "Create an Account",
+    "labels" : { 
+        "label": "First Name,Last Name,Sign Up for Newsletter,Date of Birth, Tax/VAT number,Gender,Email,Company,Phone Number,Street Address,City,State/Province,Zip/Postal Code,Country"
+    }
+}
